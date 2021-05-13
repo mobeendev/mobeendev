@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea6c8fde8edeb0c5ff497859706135d7",
+    "revision": "b46231fde1242a9da0b9d65f1fb2f5a1",
     "url": "/mobeendev/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mobeendev/static/css/4.3e7d09e6.chunk.css"
   },
   {
-    "revision": "0e0f5e143425f5964652",
+    "revision": "1f365b0997c08ac18ceb",
     "url": "/mobeendev/static/css/main.f0fb997a.chunk.css"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mobeendev/static/js/4.0d9cb610.chunk.js"
   },
   {
-    "revision": "0e0f5e143425f5964652",
-    "url": "/mobeendev/static/js/main.24f69532.chunk.js"
+    "revision": "1f365b0997c08ac18ceb",
+    "url": "/mobeendev/static/js/main.03a54b89.chunk.js"
   },
   {
     "revision": "8a1e175c5773d25b40a4",
